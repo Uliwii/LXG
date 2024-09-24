@@ -1,8 +1,9 @@
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GLX</title>
+    <title></title>
     <!--Colores de fondo y estilos, resolución-->
     <style>
         body {
@@ -77,6 +78,7 @@
     <div id="content">
         <h1>Mejor tarde que nunca c:</h1>
         <p>Fue divertido hacer esto a decir verdad, y siento que valió la pena aprender algo de programación para hacer esta clase de cosas, en fin.</p>
+        <img src="dehecho.jpg" width="50px"/>
         <img src="Gorena.jpeg" alt="Flores Virtuales" class="flower-image">
         <br>
         <a href="https://www.youtube.com/watch?v=PykXcyfPUk4" class="btn">Click aquí.</a>
